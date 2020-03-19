@@ -1,0 +1,8 @@
+C:\Users\Unknown\source\repos\CancellableAsyncTasks\CouponManagerLibrary\bin\Debug\netstandard2.0\CouponManagerLibrary.deps.json
+C:\Users\Unknown\source\repos\CancellableAsyncTasks\CouponManagerLibrary\bin\Debug\netstandard2.0\CouponManagerLibrary.dll
+C:\Users\Unknown\source\repos\CancellableAsyncTasks\CouponManagerLibrary\bin\Debug\netstandard2.0\CouponManagerLibrary.pdb
+C:\Users\Unknown\source\repos\CancellableAsyncTasks\CouponManagerLibrary\obj\Debug\netstandard2.0\CouponManagerLibrary.csprojAssemblyReference.cache
+C:\Users\Unknown\source\repos\CancellableAsyncTasks\CouponManagerLibrary\obj\Debug\netstandard2.0\CouponManagerLibrary.AssemblyInfoInputs.cache
+C:\Users\Unknown\source\repos\CancellableAsyncTasks\CouponManagerLibrary\obj\Debug\netstandard2.0\CouponManagerLibrary.AssemblyInfo.cs
+C:\Users\Unknown\source\repos\CancellableAsyncTasks\CouponManagerLibrary\obj\Debug\netstandard2.0\CouponManagerLibrary.dll
+C:\Users\Unknown\source\repos\CancellableAsyncTasks\CouponManagerLibrary\obj\Debug\netstandard2.0\CouponManagerLibrary.pdb
